@@ -8,18 +8,18 @@
 /* Accent color, used to decorate the UI with colors. */
   --dplus-accent-color-hue: 195;
   --dplus-accent-color-saturation: 65%;
-  --dplus-accent-color-lightness: 50%;
+  --dplus-accent-color-lightness: 40%;
 
 /* Foreground color: For things like text and icons. */
   --dplus-foreground-color-hue-base: 195;
-  --dplus-foreground-color-hue-links: 197;
-  --dplus-foreground-color-saturation-amount: 1;
-  --dplus-foreground-color-lightness-amount: 1;
+  --dplus-foreground-color-hue-links: 195;
+  --dplus-foreground-color-saturation-amount: 100%;
+  --dplus-foreground-color-lightness-amount: 100%;
 
 /* Background color: Covers the backdrop so the app is easier to read. */
   --dplus-background-color-hue: 195;
-  --dplus-background-color-saturation-amount: 1;
-  --dplus-background-color-lightness-amount: 1;
+  --dplus-background-color-saturation-amount: 100%;
+  --dplus-background-color-lightness-amount: 100%;
   --dplus-background-color-alpha: 0.8;
 }
 
@@ -29,16 +29,16 @@
   
   --dplus-accent-color-hue: 195;
   --dplus-accent-color-saturation: 65%;
-  --dplus-accent-color-lightness: 55%;
+  --dplus-accent-color-lightness: 60%;
   
   --dplus-foreground-color-hue-base: 195;
-  --dplus-foreground-color-hue-links: 197;
-  --dplus-foreground-color-saturation-amount: 1;
-  --dplus-foreground-color-lightness-amount: 1;
+  --dplus-foreground-color-hue-links: 195;
+  --dplus-foreground-color-saturation-amount: 100%;
+  --dplus-foreground-color-lightness-amount: 100%;
 
   --dplus-background-color-hue: 195;
-  --dplus-background-color-saturation-amount: 1;
-  --dplus-background-color-lightness-amount: 1;
+  --dplus-background-color-saturation-amount: 100%;
+  --dplus-background-color-lightness-amount: 100%;
   --dplus-background-color-alpha: 0.8;
 }
 
