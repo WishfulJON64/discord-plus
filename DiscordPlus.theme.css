@@ -6,9 +6,9 @@
   --dplus-backdrop: url(https://th.bing.com/th/id/R.c59cb4d6dda0d97d72600fc66821bbcd?rik=p%2bqtqo2eNb0jtA&riu=http%3a%2f%2fthestatetimes.com%2fwp-content%2fuploads%2f2018%2f02%2finfotech.jpg&ehk=FF2w7obphoNFJAmHb0IyqQuqdiAVkB1haRtebXosqj8%3d&risl=&pid=ImgRaw&r=0);
 
 /* Accent color, used to decorate the UI with colors. */
-  --dplus-accent-color-hue: 320;
-  --dplus-accent-color-saturation: 60%;
-  --dplus-accent-color-lightness: 31%;
+  --dplus-accent-color-hue: 182;
+  --dplus-accent-color-saturation: 65%;
+  --dplus-accent-color-lightness: 49%;
 
 /* Foreground color: For things like text and icons. */
   --dplus-foreground-color-hue-base: 210;
@@ -52,9 +52,9 @@
 /* Round corner sizes, measured in pixel radius.
 Set avatar/server radius to 50% to make them circular.
    UI radius must be in pixels, otherwise things break. */
-  --dplus-radius-ui: 20px;
-  --dplus-radius-avatar: 40%;
-  --dplus-radius-server: 40%;
+  --dplus-radius-ui: 10px;
+  --dplus-radius-avatar: 50%;
+  --dplus-radius-server: 50%;
 
 /* This decides how much breathing room there should be between things like buttons and content. */
   --dplus-spacing-ui: 10px;
@@ -68,9 +68,9 @@ Set avatar/server radius to 50% to make them circular.
 --dplus-icon-avatar-profile: 80px;
 
 --dplus-icon-server-sidebar: 48px;
---dplus-icon-server-list: 32px;
+--dplus-icon-server-list: 48px;
 
 /* The Home icon on the top left */
---dplus-icon-home-dark: url(https://plusinsta.github.io/discord-plus/assets/discord/home_dark.svg);
---dplus-icon-home-light: url(https://plusinsta.github.io/discord-plus/assets/discord/home_light.svg);
+--dplus-icon-home-dark: url(https://cdn.discordapp.com/avatars/558800978141249536/218aee39e46baafe85a43ceb8adb824a.webp?size=512&width=0&height=0);
+--dplus-icon-home-light: url(https://cdn.discordapp.com/avatars/558800978141249536/218aee39e46baafe85a43ceb8adb824a.webp?size=512&width=0&height=0);
 }
