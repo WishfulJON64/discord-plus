@@ -8,7 +8,7 @@
 /* Accent color, used to decorate the UI with colors. */
   --dplus-accent-color-hue: 182;
   --dplus-accent-color-saturation: 65%;
-  --dplus-accent-color-lightness: 49%;
+  --dplus-accent-color-lightness: 40%;
 
 /* Foreground color: For things like text and icons. */
   --dplus-foreground-color-hue-base: 210;
@@ -27,9 +27,9 @@
 .theme-light {
   --dplus-backdrop: url(https://th.bing.com/th/id/R.c59cb4d6dda0d97d72600fc66821bbcd?rik=p%2bqtqo2eNb0jtA&riu=http%3a%2f%2fthestatetimes.com%2fwp-content%2fuploads%2f2018%2f02%2finfotech.jpg&ehk=FF2w7obphoNFJAmHb0IyqQuqdiAVkB1haRtebXosqj8%3d&risl=&pid=ImgRaw&r=0);
   
-  --dplus-accent-color-hue: 320;
-  --dplus-accent-color-saturation: 60%;
-  --dplus-accent-color-lightness: 31%;
+  --dplus-accent-color-hue: 182;
+  --dplus-accent-color-saturation: 65%;
+  --dplus-accent-color-lightness: 60%;
   
   --dplus-foreground-color-hue-base: 210;
   --dplus-foreground-color-hue-links: 197;
